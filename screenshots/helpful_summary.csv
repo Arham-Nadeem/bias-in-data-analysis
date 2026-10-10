@@ -1,0 +1,7 @@
+target_word,gender_group,rating_category,count,percentage_within_group,chi_square,p_value,cramers_v
+helpful,Men,Bad,4,26.67,4.3651,0.112751,0.3752
+helpful,Men,Medium,6,40.0,4.3651,0.112751,0.3752
+helpful,Men,Good,5,33.33,4.3651,0.112751,0.3752
+helpful,Women,Bad,3,18.75,4.3651,0.112751,0.3752
+helpful,Women,Medium,2,12.5,4.3651,0.112751,0.3752
+helpful,Women,Good,11,68.75,4.3651,0.112751,0.3752

@@ -1,0 +1,7 @@
+target_word,gender_group,rating_category,count,percentage_within_group,chi_square,p_value,cramers_v
+difficult,Men,Bad,7,53.85,1.3891,0.499296,0.2268
+difficult,Men,Medium,5,38.46,1.3891,0.499296,0.2268
+difficult,Men,Good,1,7.69,1.3891,0.499296,0.2268
+difficult,Women,Bad,5,35.71,1.3891,0.499296,0.2268
+difficult,Women,Medium,6,42.86,1.3891,0.499296,0.2268
+difficult,Women,Good,3,21.43,1.3891,0.499296,0.2268
